@@ -11,3 +11,5 @@ username
 password
 
 remember me
+
+profile
